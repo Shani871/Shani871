@@ -1,4 +1,4 @@
-<img src="https://github.com/Shani871/SunSieldWebsite/blob/main/86fa0ed4-a597-4606-a495-1f56f7a1aec4.webp" alt="Welcome Banner" width="400" height="200">
+<img src="https://github.com/Shani871/SunSieldWebsite/blob/main/86fa0ed4-a597-4606-a495-1f56f7a1aec4.webp" alt="Welcome Banner" width="400" height="400">
 👋 Hello, I'm @Shani871!
 
 - 👀 Passionate about developing innovative applications.
