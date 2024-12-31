@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Shani871
-- 👀 I’m interested in Developing application 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on open source project 
-- 📫 How to reach me chauhanshani145@gmail.com
-- 😄 Pronouns: He
+👋 Hello, I'm @Shani871!
+
+- 👀 Passionate about developing innovative applications.
+- 🌱 Currently diving deep into Java programming.
+- 💞️ Open to collaborating on exciting open-source projects.
+- 📫 Feel free to reach out: chauhanshani145@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
