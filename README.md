@@ -1,4 +1,4 @@
-![Welcome Banner](./assets/)
+![Welcome Banner](https://github.com/Shani871/SunSieldWebsite/blob/main/86fa0ed4-a597-4606-a495-1f56f7a1aec4.webp)
 
 👋 Hello, I'm @Shani871!
 
