@@ -1,3 +1,5 @@
+![Welcome Banner](./assets/)
+
 👋 Hello, I'm @Shani871!
 
 - 👀 Passionate about developing innovative applications.
