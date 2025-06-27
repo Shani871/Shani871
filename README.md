@@ -11,7 +11,7 @@ I'm a passionate **full-stack developer** and tech learner, currently focused on
 
 - 🔭 Currently working on: AI-powered academic platforms & emotion recognition tools
 - 🌱 Learning: Django | AI with Python | Java Spring Boot
-- ⚙️ Tech Stack: `HTML`, `CSS`, `JavaScript`, `React`, `Django`, `MySQL`, `Bootstrap`
+- ⚙️ Tech Stack: `HTML`, `CSS`, `JavaScript`, `React`, `Django`, `MySQL`, `Bootstrap`,`Python`,`Java`
 - 🏆 Achievements: 2nd Place in Java Debugging Competition @ St. Anna's College
 - 📚 Interests: AI in Education, Web Development, and Student Productivity Tools
 
@@ -45,7 +45,6 @@ I'm a passionate **full-stack developer** and tech learner, currently focused on
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shani-chauhan-403789323/)
-- 🌐 [Portfolio (Book Store App)](https://tiny-haupia-324cc4.netlify.app/)
 - 🐍 [GitHub Projects](https://github.com/Shani871)
 
 ---
