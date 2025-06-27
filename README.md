@@ -12,20 +12,6 @@ I'm a passionate **full-stack developer** and tech learner, currently focused on
 - 🔭 Currently working on: AI-powered academic platforms & emotion recognition tools
 - 🌱 Learning: Django | AI with Python | Java Spring Boot
 - ⚙️ Tech Stack: `HTML`, `CSS`, `JavaScript`, `React`, `Django`, `MySQL`, `Bootstrap`,`Python`,`Java`
-- 🏆 Achievements: 2nd Place in Java Debugging Competition @ St. Anna's College
-- 📚 Interests: AI in Education, Web Development, and Student Productivity Tools
-
----
-
-## 💼 Featured Projects
-
-| Project Name       | Description                                                           | Tech Stack                | Live Demo |
-|--------------------|-----------------------------------------------------------------------|---------------------------|-----------|
-| **SkillBuddy AI**  | AI-powered education system with emotion detection & chat assistant  | Django, TensorFlow, JS    | [Live](https://github.com/Shani871/SkillBuddy) |
-| **Book Store App** | Online bookstore with search, filter, and cart system                | React, CSS, JavaScript    | [Live](https://tiny-haupia-324cc4.netlify.app/) |
-| **Link Collector** | URL scraper that extracts all links from a webpage                  | Django, Bootstrap, BS4    | [GitHub](https://github.com/Shani871/Link-Collector) |
-
----
 
 ## 🛠️ Skills & Tools
 
