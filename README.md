@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shani Chauhan!
 
-🎓 BSC-MSCs Computer Science | 💻 Web Developer | 🌟 Tech Enthusiast  
+🎓 MCA Computer Science | 💻 Web Developer | 🌟 Tech Enthusiast  
 📍 Hyderabad, India | 📧 chauhanshani145@gmail.com  
 
 ---
