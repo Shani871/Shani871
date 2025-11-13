@@ -42,28 +42,8 @@
 - Spring Boot
 - MongoDB, MySQL
 - Freelance website building & B2B websites
-
-## 🛠️ Skills
-
-Languages:
-- Java, Python, HTML, CSS
-
-Frameworks:
-- Spring Boot, Django
-
-Databases & Tools:
-- MySQL, MongoDB, Git, IntelliJ, PyCharm
-
-CMS & Web:
-- WordPress, Elementor
-
-
 ## 😄 Pronouns
 He/Him
-
 ## ⚡ Fun Fact
 I love building things that help people and I’m always learning something new every day!
-
----
-
 ```
