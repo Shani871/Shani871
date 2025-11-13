@@ -40,13 +40,6 @@
 - MongoDB, MySQL
 - Freelance website building & B2B websites
 
-## 📫 How to Reach Me
-- Email: chauhanshani145@gmail.com
-- LinkedIn: Shani Chauhan (please add your LinkedIn profile URL)
-- GitHub: https://github.com/Shani871
-
----
-
 ## 🛠️ Skills
 
 Languages:
@@ -61,31 +54,6 @@ Databases & Tools:
 CMS & Web:
 - WordPress, Elementor
 
----
-
-## 🚀 Selected Projects
-
-### 🔹 SkillBuddyAI
-AI-driven student education & emotional support system  
-Tech: Python, Django, HTML, CSS, MySQL  
-Repo: https://github.com/Shani871/SkillBuddy
-
-### 🔹 Freelance Website Development
-Designed responsive WordPress websites with SEO and custom UI  
-- https://sunshieldbest.com/  
-- https://lead-up.global/
-
-### 🔹 B2B Website Development
-Built B2B websites for lead generation & brand visibility using Apollo.io
-
----
-
-## 🏆 Achievements
-- 🥈 2nd Place – Java Debugging Competition (St. Anna Women’s College)  
-- 👨‍💻 Event Head – Power Byte Club  
-- 🚀 Organizer – Tech Titan Hackathon (100+ participants)
-
----
 
 ## 😄 Pronouns
 He/Him
@@ -99,13 +67,4 @@ I love building things that help people and I’m always learning something new 
 ![Shani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shani871&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shani871&layout=compact&theme=default)
 
----
-
-If you'd like this to be more stylish, I can:
-- Add more visual badges (LinkedIn, email, website, tech stack badges).
-- Add animated GitHub stats or a contribution calendar.
-- Convert sections into collapsible details for a cleaner look.
-- Tune colors/themes for your profile-stats cards.
-
-How would you like it styled? If you want, tell me which badges or theme you'd like and I’ll update the README accordingly.
 ```
