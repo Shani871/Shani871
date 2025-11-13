@@ -13,6 +13,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Shani871&color=blue)](https://github.com/Shani871)
 
 ---
+## 📊 GitHub Profile Stats
+![Shani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shani871&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shani871&layout=compact&theme=default)
 
 ## 🔭 Currently Working On
 - Agentic AI systems for education & productivity
@@ -62,9 +65,5 @@ He/Him
 I love building things that help people and I’m always learning something new every day!
 
 ---
-
-## 📊 GitHub Profile Stats
-![Shani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shani871&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shani871&layout=compact&theme=default)
 
 ```
