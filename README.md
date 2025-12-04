@@ -45,5 +45,5 @@
 ## 😄 Pronouns
 He/Him
 ## ⚡ Fun Fact
-I love building things that help people and I’m always learning something new every day!
+I love building things that help people, and I’m always learning something new every day!
 ```
